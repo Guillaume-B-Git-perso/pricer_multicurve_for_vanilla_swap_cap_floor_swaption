@@ -1,5 +1,5 @@
 # pricer_multicurve_for_vanilla_swap_cap_floor_swaption
-Multicurve Pricer for Vanilla Swaps, Caps, Floors, and Swaptions
+Multicurve pricer for vanilla swaps, caps, floors, and swaptions
 
 This project contains a Python notebook for multicurve pricing of interest rate instruments: vanilla swaps, caps, floors, and swaptions.
 
